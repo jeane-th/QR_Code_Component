@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/tafurdev/QR_Code_Component_/blob/main/README.md](https://github.com/jtafurh/QR_Code_Component/blob/main/README.md)
-- Live Site URL: [https://tafurdev.github.io/QR_Code_Component/](https://jtafurh.github.io/QR_Code_Component/)
+- Solution URL: [Link](https://github.com/jeane-th/QR_Code_Component)
+- Live Site URL: [Link](https://jeane-th.github.io/QR_Code_Component/))
 
 ## My process
 
@@ -67,7 +67,5 @@ The CSS box-shadow property is used to apply one or more shadows to an element.
 
 ## Author
 
-- Website - [Jeaneth Tafur](https://github.com/jtafurh)
-- Frontend Mentor - [@jtafurh](https://www.frontendmentor.io/profile/jtafurh)
-- Twitter - [@jtafurh](https://twitter.com/jtafurh?s=09)
-
+- Sitio web - [Jeaneth Tafur](https://www.jeanethtafur.site)  
+- Frontend Mentor - [@jeane-th](https://www.frontendmentor.io/profile/@jeane-th)
